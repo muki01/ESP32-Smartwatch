@@ -1,0 +1,16 @@
+# Binary files
+*.png binary
+*.gif binary
+*.jpg binary
+*.wav binary
+*.ttf binary
+*.woff binary
+
+# Generated fonts and images: collapsed in diffs, left out of the language statistics
+Smartwatch/src/assets/** linguist-generated=true
+
+# Third-party codec driver
+Smartwatch/src/drivers/es8311/** linguist-vendored=true
+
+# Documentation media
+docs/** linguist-documentation=true

@@ -1,0 +1,18 @@
+# Arduino IDE / arduino-cli build output (Sketch > Export Compiled Binary)
+Smartwatch/build/
+*.elf
+*.map
+
+# PC preview build (tools/preview)
+tools/preview/build/
+
+# Editors and operating systems
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc

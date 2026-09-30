@@ -1,0 +1,22 @@
+name: Feature request
+description: Suggest a new feature, app or watch face.
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What would you like to do on the watch?
+      description: Describe the use case. Why would it be useful?
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: How could it work?
+      description: Screens, gestures, settings. Sketches and screenshots of other watches are welcome.
+  - type: checkboxes
+    id: help
+    attributes:
+      label: Contribution
+      options:
+        - label: I would like to help implement this.

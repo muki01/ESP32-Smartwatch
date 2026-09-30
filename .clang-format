@@ -1,0 +1,21 @@
+# Code style of the firmware (clang-format 14+). Generated files in Smartwatch/src/assets
+# and the vendor codec driver (src/drivers/es8311) are excluded by .clang-format-ignore.
+BasedOnStyle: Google
+Language: Cpp
+Standard: c++17
+IndentWidth: 2
+ColumnLimit: 120
+DerivePointerAlignment: false
+PointerAlignment: Right
+AllowShortFunctionsOnASingleLine: Empty
+AllowShortIfStatementsOnASingleLine: WithoutElse
+AllowShortLoopsOnASingleLine: true
+AllowShortBlocksOnASingleLine: Empty
+AlignConsecutiveMacros: Consecutive
+AlignTrailingComments: true
+SpacesBeforeTrailingComments: 2
+IncludeBlocks: Preserve
+SortIncludes: CaseSensitive
+BreakBeforeTernaryOperators: true
+Cpp11BracedListStyle: true
+ReflowComments: false

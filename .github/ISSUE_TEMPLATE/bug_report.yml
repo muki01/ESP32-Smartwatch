@@ -1,0 +1,46 @@
+name: Bug report
+description: Something does not work as expected on the watch or in the build.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for taking the time to report a problem! Please fill in as much as you can.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open ...
+        2. Tap ...
+        3. ...
+  - type: input
+    id: firmware
+    attributes:
+      label: Firmware version
+      description: Settings › About › Firmware, or the commit you built.
+      placeholder: 3.0.0
+    validations:
+      required: true
+  - type: input
+    id: board
+    attributes:
+      label: Board
+      placeholder: Waveshare ESP32-S3-Touch-AMOLED-1.8
+  - type: input
+    id: toolchain
+    attributes:
+      label: Arduino esp32 core and LVGL versions
+      placeholder: esp32 3.3.12, lvgl 9.6.0
+  - type: textarea
+    id: log
+    attributes:
+      label: Serial log
+      description: The output of the serial monitor at 115200 baud (crash dumps included).
+      render: text
