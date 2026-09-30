@@ -9,10 +9,10 @@
 Watch faces, always-on display, notifications, fitness and sleep tracking, weather, music, alarms, Wi-Fi and Bluetooth LE, plus WLED smart lights and car control.
 Built with Arduino for the **Waveshare ESP32-S3-Touch-AMOLED-1.8**.
 
-[![License: MIT](https://img.shields.io/github/license/muki01/ESP32-Smartwatch?style=flat-square&color=EE1E1E)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/muki01/ESP32-Smartwatch?style=flat-square&logo=github)](https://github.com/muki01/ESP32-Smartwatch/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/muki01/ESP32-Smartwatch?style=flat-square&logo=github)](https://github.com/muki01/ESP32-Smartwatch/network/members)
-[![Last commit](https://img.shields.io/github/last-commit/muki01/ESP32-Smartwatch?style=flat-square)](https://github.com/muki01/ESP32-Smartwatch/commits)
+[![License: MIT](https://img.shields.io/github/license/muki01/Smartwatch-ESP32?style=flat-square&color=EE1E1E)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/muki01/Smartwatch-ESP32?style=flat-square&logo=github)](https://github.com/muki01/Smartwatch-ESP32/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/muki01/Smartwatch-ESP32?style=flat-square&logo=github)](https://github.com/muki01/Smartwatch-ESP32/network/members)
+[![Last commit](https://img.shields.io/github/last-commit/muki01/Smartwatch-ESP32?style=flat-square)](https://github.com/muki01/Smartwatch-ESP32/commits)
 <br>
 [![ESP32-S3](https://img.shields.io/badge/ESP32--S3-240%20MHz%20·%208%20MB%20PSRAM-E7352C?style=flat-square&logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32-s3)
 [![LVGL 9](https://img.shields.io/badge/LVGL-9.6-2196F3?style=flat-square)](https://lvgl.io)
@@ -360,7 +360,7 @@ No. Weather comes from [Open-Meteo](https://open-meteo.com), and the location is
 
 ## 🤝 Contributing
 
-Bug reports, ideas and pull requests are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) first. If you build the watch, share a photo in the [Discussions](https://github.com/muki01/ESP32-Smartwatch/discussions) or an issue.
+Bug reports, ideas and pull requests are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) first. If you build the watch, share a photo in the [Discussions](https://github.com/muki01/Smartwatch-ESP32/discussions) or an issue.
 
 ## 📄 License
 
@@ -374,8 +374,8 @@ Released under the [MIT License](LICENSE). Fonts: Montserrat (SIL OFL 1.1) and F
 
 If this project helps you, please give it a star: it helps others find it.
 
-<a href="https://star-history.com/#muki01/ESP32-Smartwatch&Date">
-  <img src="https://api.star-history.com/svg?repos=muki01/ESP32-Smartwatch&type=Date" alt="Star history of ESP32-Smartwatch" width="600">
+<a href="https://star-history.com/#muki01/Smartwatch-ESP32&Date">
+  <img src="https://api.star-history.com/svg?repos=muki01/Smartwatch-ESP32&type=Date" alt="Star history of Smartwatch-ESP32" width="600">
 </a>
 
 ## ☕ Support my work

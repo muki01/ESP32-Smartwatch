@@ -4,7 +4,7 @@ Thanks for your interest in the project! Bug reports, ideas, documentation fixes
 
 ## Reporting bugs
 
-Open an [issue](https://github.com/muki01/ESP32-Smartwatch/issues/new/choose) and include:
+Open an [issue](https://github.com/muki01/Smartwatch-ESP32/issues/new/choose) and include:
 
 - the firmware version (Settings › About) and your board,
 - the Arduino esp32 core and LVGL versions,
